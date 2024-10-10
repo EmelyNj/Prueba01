@@ -98,10 +98,6 @@ console.log(Sumar2());
 
 //#endregion
 
-//#region CONDICIONALES
 
-// EJEMPLO 1
-
-//#endregion
 
 
